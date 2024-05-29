@@ -1,6 +1,6 @@
 %% Main script for the estimation of running temporal parameters
 % Author: Rachele Rossanigo, r.rossanigo@phd.uniss.it
-% May 202
+% May 2024
 
 %% ----------------------------Data load-----------------------------------
 % Load templates
